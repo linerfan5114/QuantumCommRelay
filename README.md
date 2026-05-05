@@ -69,7 +69,7 @@ QuantumCommRelay/
 ### Installation
 
 ```bash
-git clone https://github.com/your-org/QuantumCommRelay.git
+git clone https://github.com/linerfan5114/QuantumCommRelay.git
 cd QuantumCommRelay
 pip install numpy plotly
 ```
